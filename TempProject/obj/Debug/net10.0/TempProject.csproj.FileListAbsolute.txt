@@ -1,0 +1,15 @@
+D:\lab_5_git\lab-git\TempProject\bin\Debug\net10.0\TempProject.exe
+D:\lab_5_git\lab-git\TempProject\bin\Debug\net10.0\TempProject.deps.json
+D:\lab_5_git\lab-git\TempProject\bin\Debug\net10.0\TempProject.runtimeconfig.json
+D:\lab_5_git\lab-git\TempProject\bin\Debug\net10.0\TempProject.dll
+D:\lab_5_git\lab-git\TempProject\bin\Debug\net10.0\TempProject.pdb
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.AssemblyInfoInputs.cache
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.AssemblyInfo.cs
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.csproj.CoreCompileInputs.cache
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.sourcelink.json
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.dll
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\refint\TempProject.dll
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.pdb
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\TempProject.genruntimeconfig.cache
+D:\lab_5_git\lab-git\TempProject\obj\Debug\net10.0\ref\TempProject.dll
